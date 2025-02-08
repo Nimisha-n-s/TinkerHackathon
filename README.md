@@ -1,4 +1,5 @@
-About Renewora 🌿♻
+# About Renewora 🌿♻
+
 At Renewora, we believe in a sustainable future where waste transforms into wonder. Our mission is to redefine consumption by offering eco-friendly, recycled, and upcycled products that not only reduce environmental impact but also promote conscious living.
 
 From sustainably sourced home essentials to fashion-forward recycled accessories, every product at Renewora is thoughtfully curated to ensure minimal waste and maximum impact. We work with ethical manufacturers, artisans, and innovators who share our passion for sustainability.
