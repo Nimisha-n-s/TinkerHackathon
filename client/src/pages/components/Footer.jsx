@@ -1,5 +1,5 @@
-
 import React from 'react'
+import RecyclingIcon from "@mui/icons-material/Recycling";
 import { Container, Typography, Box, Link, TextField, Button, IconButton } from "@mui/material";
 import { Twitter, LinkedIn, Facebook, Instagram, GitHub, Phone, ArrowForward } from "@mui/icons-material";
 // import { Link as RouterLink } from "react-router-dom";
@@ -11,9 +11,11 @@ const Footer = () => {
       <Box display="flex" justifyContent="space-between">
         {/* Intro */}
         <Box sx={{ width: 400 }}>
-          <Typography variant="h5" display="flex" alignItems="center" gap={1}>
-            <i className="fa-brands fa-docker"></i> Job Fair
-          </Typography>
+        <Typography variant="h5">
+              <Box component="span" display="flex" alignItems="center" gap={1}>
+                <RecyclingIcon /> Renewora
+              </Box>
+            </Typography>
           <Typography>
             Designed and built with all the love in the world by the Bootstrap team with the help of our contributors.
           </Typography>
