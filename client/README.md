@@ -62,11 +62,7 @@ For Software:
 For Hardware:
 
 # Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
+https://github.com/Nimisha-n-s/TinkerHackathon/blob/main/Screenshots/Screenshot%202025-02-09%20113740.png
 
 # Build Photos
 ![Team](Add photo of your team here)
